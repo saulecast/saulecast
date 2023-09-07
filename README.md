@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saúl Castillo</h1>
 <h3 align="center">A passionate fullstack developer from Dominican Republic</h3>
 
-<p align="left"> <a href="https://twitter.com/saulecast" target="blank"><img src="https://img.shields.io/twitter/follow/saulecast?logo=twitter&style=for-the-badge" alt="saulecast" /></a> </p>
-
 - 🔭 I’m currently working on [BCC Technologies](bcctech.in)
 
 - 🌱 I’m currently learning **machine learning, data science and any high level python programming. No matter if its Frontend or Backend**
@@ -19,7 +17,9 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1WsxJKg-dBJe_2ODsMV-qRtZg4eeZk--FpLkVm5Rmay0/edit?usp=sharing](https://docs.google.com/document/d/1WsxJKg-dBJe_2ODsMV-qRtZg4eeZk--FpLkVm5Rmay0/edit?usp=sharing)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **What is the difference between a joke and a riddle?**
+
+<p align="left"> <a href="https://twitter.com/saulecast" target="blank"><img src="https://img.shields.io/twitter/follow/saulecast?logo=twitter&style=for-the-badge" alt="saulecast" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
